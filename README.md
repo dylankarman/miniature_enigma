@@ -1,2 +1,2 @@
 # miniature_enigma
-sql practice
+sql Practice
